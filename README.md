@@ -1,4 +1,4 @@
 write
 =====
 
-Texts
+A repo for all the texts.
